@@ -12,4 +12,4 @@
 ## Simulation
 -Simulation result using ModelSim-Altera contained in Quartus.<br />
 -Note: This project uses a testbench to simulate the circuit. The testbench was implemented at the top of the circuit hierarchy.<br />
-![alt text](https://github.com/AlexandreLujan/MUX_16X1/blob/main/Simulation.png?raw=true)
+![alt text](https://github.com/AlexandreLujan/ALU/blob/main/Simulation.png?raw=true)
